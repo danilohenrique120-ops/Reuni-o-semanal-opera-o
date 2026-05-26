@@ -1,0 +1,6 @@
+{
+  "name": "Painel de Reunião de Alta Performance",
+  "description": "Painel dinâmico para controle e histórico de reuniões semanais de produção industrial com foco em visualização executiva e KPIs.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
